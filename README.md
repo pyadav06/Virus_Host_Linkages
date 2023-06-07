@@ -13,3 +13,5 @@ When analyzing the tetranucleotide frequency of viruses and hosts, several patte
 
 
 Therefore, comparing the tetranucleotide frequencies of viruses and their hosts can be used to link viral contigs to their potential hosts in the metagenome samples.
+
+
